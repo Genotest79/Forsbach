@@ -405,10 +405,6 @@
                         }]
                 }],
          "tilewidth":32
-        }, 
-        {
-         "firstgid":455,
-         "source":"logotest.tsx"
         }],
  "tilewidth":32,
  "type":"map",
